@@ -1,4 +1,4 @@
-Welcome Back Faculty & Students!
+Welcome Back Students & Faculty
 ========================================================
 author: 
 date: August 27, 2018
