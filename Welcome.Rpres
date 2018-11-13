@@ -1,6 +1,6 @@
-Welcome Back Students & Faculty
+Lucy, Welcome to Geography!
 ========================================================
 author: 
-date: August 27, 2018
+date: November 13, 2018
 autosize: true
 
